@@ -29,10 +29,12 @@
 #include <unordered_map>
 using namespace std;
 
+// Complexity: O(1) time, O(n) space
 class RandomizedSet {
 public:
-    // Complexity: O(1) time, O(n) space
-    RandomizedSet() {}  // Constructor
+    
+    // Constructor
+    RandomizedSet() {}  
     
     bool search(int val) {
         return map.find(val) != map.end();

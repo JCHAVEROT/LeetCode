@@ -30,8 +30,8 @@ import random
 class RandomizedSet(object):
 
     def __init__(self):
-        self.lst = list()
-        self.idx_map = dict()
+        self._lst = list()
+        self._idx_map = dict()
         
 
     def search(self, val: int) -> bool:
