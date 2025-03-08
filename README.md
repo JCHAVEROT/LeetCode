@@ -14,3 +14,4 @@
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | [C++](https://github.com/JCHAVEROT/leetcode/blob/main/algorithms/BestTimeToBuyAndSellStockII.cpp) | Medium |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game) | [C++](https://github.com/JCHAVEROT/leetcode/blob/main/algorithms/JumpGame.cpp) | Medium |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | [C++](https://github.com/JCHAVEROT/leetcode/blob/main/algorithms/JumpGameII.cpp) | Medium |
+| 274 | [H-Index](https://leetcode.com/problems/h-index) | [C++](https://github.com/JCHAVEROT/leetcode/blob/main/algorithms/H-Index.cpp) | Medium |
