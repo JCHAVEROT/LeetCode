@@ -23,23 +23,17 @@ class Solution {
 public:
     // Complexity: O(n log n) time, O(1) space
     int hIndex(vector<int>& citations) {
-        // Empty check
-        if (citations.empty()) { return 0; }
 
-        // Sort and reverse the citations array
-        sort(citations.begin(), citations.end());
-        reverse(citations.begin(), citations.end());
+        // Sort the citations array in descending order 
+        sort(citations.rbegin(), citations.rend());
 
-        // Initialize the h-index
-        int h = 0;
-
-        // Loop to find the maximum h-index
-        for (int i = 0; i < citations.size(); i++) {
-            if (i+1 <= citations[i]) {
-                h=i+1;
-            } else break;
+        // Find the maximum h-index
+        for (int h = 0; h < citations.size(); h++) {
+            if (citations[h] < h+1) {
+                return h;
+            } 
         }
 
-        return h;
+        return citations.size();
     }
 };
