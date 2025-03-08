@@ -31,6 +31,7 @@ using namespace std;
 
 class RandomizedSet {
 public:
+    // Complexity: O(1) time, O(n) space
     RandomizedSet() {}  // Constructor
     
     bool search(int val) {
@@ -80,6 +81,7 @@ private:
     vector<int> vect;
     unordered_map<int, int> map;
 };
+
 
 /**
  * Your RandomizedSet object will be instantiated and called as such:
