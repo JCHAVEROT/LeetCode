@@ -12,3 +12,4 @@
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [C++](https://github.com/JCHAVEROT/leetcode/blob/main/algorithms/MajorityElement.cpp) | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [C++](https://github.com/JCHAVEROT/leetcode/blob/main/algorithms/RotateArray.cpp) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [C++](https://github.com/JCHAVEROT/leetcode/blob/main/algorithms/BestTimeToBuyAndSellStock.cpp) | Easy |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | [C++](https://github.com/JCHAVEROT/leetcode/blob/main/algorithms/BestTimeToBuyAndSellStockII.cpp) | Medium |
