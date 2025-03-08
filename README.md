@@ -9,4 +9,4 @@
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element) | [C++](https://github.com/JCHAVEROT/leetcode/blob/main/algorithms/RemoveElement.cpp) | Easy |
 | 26 | [Remove Duplicates From Sorted Arrays](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [C++](https://github.com/JCHAVEROT/leetcode/blob/main/algorithms/RemoveDuplicatesFromSortedArrays.cpp) | Easy |
 | 80 | [Remove Duplicates From Sorted Arrays II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [C++](https://github.com/JCHAVEROT/leetcode/blob/main/algorithms/RemoveDuplicatesFromSortedArraysII.cpp) | Medium |
-
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [C++](https://github.com/JCHAVEROT/leetcode/blob/main/algorithms/MajorityElement.cpp) | Easy |
